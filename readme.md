@@ -1,0 +1,1 @@
+Simple modal with pure javascript
